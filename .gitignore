@@ -1,0 +1,4 @@
+spinq-env/
+q-env/
+__pycache__/
+*.csv
